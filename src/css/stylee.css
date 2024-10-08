@@ -1,0 +1,21 @@
+.m1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(52, 134, 52);
+}
+.td1{
+    width: 65vh;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid black 0.75vh;
+    color: black;
+    background-color: antiquewhite;
+    font-size: 10vh;
+    border-radius: 5vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
